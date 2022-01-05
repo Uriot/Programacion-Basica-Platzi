@@ -1,0 +1,31 @@
+¿Cuàl es la diferencia entre programaciòn y interactividad?
+
+programacion es codigo que tu escribes para que nuestros telefonos o 
+computadores hagan algo.
+
+la interactividad es el resultado de la programaciòn.
+html = no tiene interactividad
+css =  no tiene interactividad
+javascript = si tiene interactividad con la informacion de html
+
+Html = es un lenguaje de marcado de hipertexto y hay colocamos la informaciòn.
+css = Es un lenguaje de estilo en cascado, el contenido lo muestra de una forma visual.
+javascrpit = hace que los botones funcionen.
+
+
+
+¿con que extensiones se guarda?
+html = .html
+css = .css
+javascript = .js
+
+
+¿Que editores de codigo hay?
+sublime text 
+atom = editor del curso
+visual studio
+entre otros
+
+
+¿Interpreta los archivos?
+ es el que abre = navegador 
